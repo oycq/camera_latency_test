@@ -41,4 +41,4 @@ while(1):
 	if chr(c)=='r':
  		cv2.destroyAllWindows()	
 	if chr(c)=='q':
-		break	
+		reak	
