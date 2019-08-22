@@ -102,6 +102,8 @@ def main():
 
     loop(cam)
 
+
+    cam.EndAcquisition()
     cam.DeInit()
     del cam
     cam_list.Clear()
